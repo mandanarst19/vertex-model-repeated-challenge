@@ -1,0 +1,10 @@
+# packages used by the scripts in scripts/ and tests/ (tested on Python 3.12)
+numpy==2.0.2
+numba==0.60.0
+llvmlite==0.43.0
+pandas==2.3.3
+pyarrow
+scipy
+matplotlib
+seaborn
+dill

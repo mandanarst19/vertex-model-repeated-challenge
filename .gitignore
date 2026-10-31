@@ -1,0 +1,19 @@
+# Created by venv; see https://docs.python.org/3/library/venv.html
+venv/
+__pycache__/
+*.pyc
+.vscode/
+*.dill
+*.parquet
+*.pdf
+*.png
+*.jpg
+*.svg
+*.mp4
+*.gz
+*.xz
+*.csv
+*.zip
+results/
+results_stage1.log
+__pycache__/
