@@ -73,6 +73,4 @@ python stage2_analysis.py ../results/stage2
 ```
 One full simulation takes roughly 30-40 s on one core; seeds are the realisation indices.
 
-## Tools
-I used an AI assistant (Claude) for part of the coding and for checking my reading of the original code. The design,
-interpretation and everything stated above are mine to defend. <!-- edit this line to match what is true for you -->
+
